@@ -38,7 +38,7 @@ The priorities are to investigate late deliveries at planning level, to make dri
 
 ### 3. Route and Customer Performance
 
-![Route & Customer Performance dashboard](images/dashboard_route.png)
+![Route & Customer Performance dashboard](images/dashboard_routes.png)
 
 - Average revenue is €2.31 per kilometre and €519 per trip.
 - The highest-revenue route, Hamburg – Leipzig (€1.68 million), earns among the lowest revenue per kilometre (€2.03). Short regional routes earn the most per kilometre, up to €4.70 on Leipzig – Halle, because the fixed charge per delivery is spread over fewer kilometres.
